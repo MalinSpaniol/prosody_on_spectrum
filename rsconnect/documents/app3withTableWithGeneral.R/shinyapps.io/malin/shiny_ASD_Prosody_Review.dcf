@@ -1,0 +1,12 @@
+name: shiny_ASD_Prosody_Review
+title: shiny_ASD_Prosody_Review
+username: malin
+account: malin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12096401
+bundleId: 8679637
+url: https://malin.shinyapps.io/shiny_ASD_Prosody_Review/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

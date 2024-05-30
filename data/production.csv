@@ -1,0 +1,49 @@
+What,Paper,differences,min,max,participants,language
+lexical tone,Wang & Ding 2022,no differences,4,8,17,mandarin
+lexical tone,Chen et al. 2021,differences,6,11,52,mandarin /  cantonese
+lexical stress,Arciuli & Bailey 2019,differences,5,10,40,english
+lexical stress,Arciuli et al. 2020,no differences,3,6,32,italian
+lexical stress,Grossmann et al. 2010,differences,7,18,31,english
+lexical stress,Paul et al. 2005,differences,14,21,40,english
+lexical stress,Paul et al. 2008,differences,7,28,66,english
+lexical stress,Shriberg et al. 2001,no differences,10,50,83,english
+lexical stress,Gargan & Andrianopoulos 2022,differences,12,20,22,english
+lexical stress,Van Santen et al. 2010,no differences,4,8,52,english
+syntactic structure,Diehl & Paul 2013,no differences,8,16,62,english
+syntactic structure,Fosnot & Jun 1999,differences,7,14,12,english
+syntactic structure,Hesling et al. 2010,differences,21,25,16,french
+syntactic structure,Paul et al. 2005,no differences,14,21,40,english
+syntactic structure,Peppé et al. 2007,differences,4,13,103,english
+syntactic structure,Thurber & Tager-Flusberg 1993,no differences,7,14,30,english
+speech acts,Diehl & Paul 2013,no differences,8,16,62,english
+speech acts,Filipe et al. 2014,differences,8,9,29,portuguese
+speech acts,Fosnot & Jun 1999,differences,7,14,12,english
+speech acts,Hesling et al. 2010,differences,21,25,16,french
+speech acts,Peppé et al. 2007,differences,4,13,103,english
+speech acts,Paul et al. 2005,no differences,14,21,40,english
+speech acts,Wang et al. 2021,no differences,7,11,28,english
+speech acts,Wang et al. 2021,no differences,12,15,20,english
+speech acts,Wang et al. 2021,no differences,18,55,36,english
+turn-taking,Fine et al. 1991,no differences,7,32,76,english
+turn-taking,Heeman et al. 2010,differences,4,8,48,english
+turn-taking,Ochi et al. 2019,differences,18,48,79,japanese
+info. structure - focus,Baltaxe & Guthrie 1987,differences,2,12,21,english
+info. structure - focus,Fine et al. 1991,no differences,7,32,76,english
+info. structure - focus,Shriberg et al. 2001,differences,10,50,83,english
+info. structure - focus,Van Santen et al. 2010,no differences,4,8,52,english
+info. structure - contrast,Baltaxe 1984,differences,2,12,21,english
+info. structure - contrast,DePape et al. 2012,differences,17,34,18,english
+info. structure - contrast,Diehl & Paul 2013,no differences,8,16,62,english
+info. structure - contrast,Fine et al. 1991,differences,7,32,76,english
+info. structure - contrast,Hesling et al. 2010,differences,21,25,16,french
+info. structure - contrast,Kaland et al. 2013,differences,18,51,40,dutch
+info. structure - contrast,McCaleb & Prizant 1985,no differences,4,14,4,english
+info. structure - contrast,Nadig & Shaw 2015,no differences,8,14,26,english
+info. structure - contrast,Paul et al. 2005,differences,14,21,40,english
+info. structure - contrast,Peppé et al. 2007,differences,4,13,103,english
+info. structure - contrast,Van Santen et al. 2010,differences,4,8,52,english
+emotional states,Hesling et al. 2010,differences,21,25,16,french
+emotional states,Hubbard & Trauner 2007,differences,6,21,28,english
+emotional states,Hubbard et al. 2017,differences,18,42,30,english
+emotional states,Paul et al. 2005,no differences,14,21,40,english
+emotional states,Peppé et al. 2007,differences,4,13,103,english

@@ -1,0 +1,41 @@
+---
+title: "prosody_spectrum"
+author: "Malin Spaniol"
+date: "2024-03-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+### Prerequisits
+```{r cars, message=FALSE}
+library("dplyr")
+library("tidyverse")
+library("readr")
+```
+
+
+```{r}
+data1 <- read.csv("/Users/malin/Downloads/shiny/data/general_characteristics_SW_0722.csv")
+data2 <- read.csv("/Users/malin/Downloads/shiny/data/perception_SW_0722.csv")
+data3 <- read.csv("/Users/malin/Downloads/shiny/data/production_SW_0722.csv")
+```
+
+```{r}
+merged_data <- merge(merge(data1, data2, by = "Paper", all = TRUE), data3, by = "Paper", all = TRUE)
+
+merged_data_unique <- merged_data |>
+  mutate(Paper = str_trim(Paper)) |> 
+  distinct(Paper) # , .keep_all = TRUE
+```
+
+```{r}
+write.csv(merged_data_unique, "papers_prosody_on_spectrum.csv", row.names = FALSE)
+
+```
+
+
