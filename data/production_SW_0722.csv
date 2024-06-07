@@ -1,0 +1,49 @@
+What,Paper,differences,min,max,participants,language,Link
+lexical tone,Wang & Ding 2022,no differences,4,8,17,mandarin,https://www.isca-archive.org/speechprosody_2022/wang22_speechprosody.html
+lexical tone,Chen et al. 2021,differences,6,11,52,mandarin /  cantonese,https://link.springer.com/article/10.1007/s10803-021-05123-4
+lexical stress,Arciuli & Bailey 2019,differences,5,10,40,english,https://doi.org/10.1017/s0305000918000272
+lexical stress,Arciuli et al. 2020,no differences,3,6,32,italian,https://www.cambridge.org/core/journals/journal-of-child-language/article/lexical-stress-contrastivity-in-italian-children-with-autism-spectrum-disorders-an-exploratory-acoustic-study/B4568E87CBB7E5775BACAE1ED7DAF68A
+lexical stress,Grossmann et al. 2010,differences,7,18,31,english,https://pubs.asha.org/doi/10.1044/1092-4388%282009/08-0127%29
+lexical stress,Paul et al. 2005,differences,14,21,40,english,https://link.springer.com/article/10.1007/s10803-004-1999-1
+lexical stress,Paul et al. 2008,differences,7,28,66,english,https://www.sciencedirect.com/science/article/pii/S1750946707000359?via%3Dihub
+lexical stress,Shriberg et al. 2001,no differences,10,50,83,english,https://pubs.asha.org/doi/10.1044/1092-4388%282001/087%29
+lexical stress,Gargan & Andrianopoulos 2022,differences,12,20,22,english,https://www.tandfonline.com/doi/full/10.1080/17549507.2021.2008006
+lexical stress,Van Santen et al. 2010,no differences,4,8,52,english,https://journals.sagepub.com/doi/10.1177/1362361310363281
+syntactic structure,Diehl & Paul 2013,no differences,8,16,62,english,https://www.cambridge.org/core/journals/applied-psycholinguistics/article/acoustic-and-perceptual-measurements-of-prosody-production-on-the-profiling-elements-of-prosodic-systems-in-children-by-children-with-autism-spectrum-disorders/3DC8EFD1BF7CF7CEAD42A341F5BAE53A
+syntactic structure,Fosnot & Jun 1999,differences,7,14,12,english, https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_1925.pdf
+syntactic structure,Hesling et al. 2010,differences,21,25,16,french,https://doi.org/10.1371/journal.pone.0011571
+syntactic structure,Paul et al. 2005,no differences,14,21,40,english,https://link.springer.com/article/10.1007/s10803-004-1999-1
+syntactic structure,Peppé et al. 2007,differences,4,13,103,english,https://pubs.asha.org/doi/10.1044/1092-4388%282007/071%29
+syntactic structure,Thurber & Tager-Flusberg 1993,no differences,7,14,30,english,https://link.springer.com/article/10.1007/BF01046222
+speech acts,Diehl & Paul 2013,no differences,8,16,62,english,https://www.cambridge.org/core/journals/applied-psycholinguistics/article/acoustic-and-perceptual-measurements-of-prosody-production-on-the-profiling-elements-of-prosodic-systems-in-children-by-children-with-autism-spectrum-disorders/3DC8EFD1BF7CF7CEAD42A341F5BAE53A
+speech acts,Filipe et al. 2014,differences,8,9,29,portuguese,https://link.springer.com/article/10.1007/s10803-014-2073-2
+speech acts,Fosnot & Jun 1999,differences,7,14,12,english, https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_1925.pdf
+speech acts,Hesling et al. 2010,differences,21,25,16,french,https://doi.org/10.1371/journal.pone.0011571
+speech acts,Peppé et al. 2007,differences,4,13,103,english,https://pubs.asha.org/doi/10.1044/1092-4388%282007/071%29
+speech acts,Paul et al. 2005,no differences,14,21,40,english,https://link.springer.com/article/10.1007/s10803-004-1999-1
+speech acts,Wang et al. 2021,no differences,7,11,28,english,https://link.springer.com/article/10.1007/s10803-021-05220-4
+speech acts,Wang et al. 2021,no differences,12,15,20,english,https://link.springer.com/article/10.1007/s10803-021-05220-4
+speech acts,Wang et al. 2021,no differences,18,55,36,english,https://link.springer.com/article/10.1007/s10803-021-05220-4
+turn-taking,Fine et al. 1991,no differences,7,32,76,english,https://doi.org/10.1111/j.1469-7610.1991.tb01901.x
+turn-taking,Heeman et al. 2010,differences,4,8,48,english,https://aclanthology.org/W10-4346.pdf
+turn-taking,Ochi et al. 2019,differences,18,48,79,japanese,https://doi.org/10.1371/journal.pone.0225377
+info. structure - focus,Baltaxe & Guthrie 1987,differences,2,12,21,english,https://doi.org/10.1007/bf01495060
+info. structure - focus,Fine et al. 1991,no differences,7,32,76,english,https://doi.org/10.1111/j.1469-7610.1991.tb01901.x
+info. structure - focus,Shriberg et al. 2001,differences,10,50,83,english,https://pubs.asha.org/doi/10.1044/1092-4388%282001/087%29
+info. structure - focus,Van Santen et al. 2010,no differences,4,8,52,english,https://journals.sagepub.com/doi/10.1177/1362361310363281
+info. structure - contrast,Baltaxe 1984,differences,2,12,21,english,https://pubs.asha.org/doi/10.1044/jshr.2701.97
+info. structure - contrast,DePape et al. 2012,differences,17,34,18,english,https://doi.org/10.3389/fpsyg.2012.00072
+info. structure - contrast,Diehl & Paul 2013,no differences,8,16,62,english,https://www.cambridge.org/core/journals/applied-psycholinguistics/article/acoustic-and-perceptual-measurements-of-prosody-production-on-the-profiling-elements-of-prosodic-systems-in-children-by-children-with-autism-spectrum-disorders/3DC8EFD1BF7CF7CEAD42A341F5BAE53A
+info. structure - contrast,Fine et al. 1991,differences,7,32,76,english,https://doi.org/10.1111/j.1469-7610.1991.tb01901.x
+info. structure - contrast,Hesling et al. 2010,differences,21,25,16,french,https://doi.org/10.1371/journal.pone.0011571
+info. structure - contrast,Kaland et al. 2013,differences,18,51,40,dutch,https://doi.org/10.1121/1.4816544
+info. structure - contrast,McCaleb & Prizant 1985,no differences,4,14,4,english,https://pubs.asha.org/doi/10.1044/jshd.5003.230
+info. structure - contrast,Nadig & Shaw 2015,no differences,8,14,26,english,https://www.tandfonline.com/doi/abs/10.1080/01690965.2012.753150
+info. structure - contrast,Paul et al. 2005,differences,14,21,40,english,https://link.springer.com/article/10.1007/s10803-004-1999-1
+info. structure - contrast,Peppé et al. 2007,differences,4,13,103,english,https://pubs.asha.org/doi/10.1044/1092-4388%282007/071%29
+info. structure - contrast,Van Santen et al. 2010,differences,4,8,52,english,https://journals.sagepub.com/doi/10.1177/1362361310363281
+emotional states,Hesling et al. 2010,differences,21,25,16,french,https://doi.org/10.1371/journal.pone.0011571
+emotional states,Hubbard & Trauner 2007,differences,6,21,28,english,https://link.springer.com/article/10.1007/s10936-006-9037-4
+emotional states,Hubbard et al. 2017,differences,18,42,30,english,https://onlinelibrary.wiley.com/doi/10.1002/aur.1847
+emotional states,Paul et al. 2005,no differences,14,21,40,english,https://link.springer.com/article/10.1007/s10803-004-1999-1
+emotional states,Peppé et al. 2007,differences,4,13,103,english,https://pubs.asha.org/doi/10.1044/1092-4388%282007/071%29

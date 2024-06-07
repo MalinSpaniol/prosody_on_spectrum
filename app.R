@@ -26,11 +26,13 @@ library(DT)
 read_and_preprocess_data <- function(file_path, paper_labels, what_levels) {
   read.table(file_path, dec = ",", header = TRUE, fill = TRUE, skipNul = TRUE, sep = ",",
              stringsAsFactors = FALSE, encoding = "UTF-8") %>%
+    #left_join(., "data/papers_prosody_on_spectrum.csv", by = "Paper")
     mutate(Label = case_when(!!!paper_labels),
            What_f = factor(What, levels = what_levels),
            Label = as.factor(Label),
            Label = factor(Label, levels = rev(levels(Label))),
-           source = str_c("https://www.google.com/"))
+           source = str_c(Link))
+           #source = str_c("https://www.google.com/"))
 }
 
 
@@ -51,7 +53,7 @@ render_plot <- function(data, title) {
   
 }
 
-# Common theme for plots
+
 theme_common <- function() {
   theme(legend.position = "top", legend.direction = "horizontal",
         legend.title = element_blank(), legend.text = element_text(size = 16),
@@ -69,6 +71,14 @@ theme_common <- function() {
 # UI
 ui <- fluidPage(
   titlePanel("Prosody on the spectrum"),
+  
+  tags$p('This website was created to accompany our review article "Linguistic Prosody in Autism Spectrum Disorder—An Overview" (Grice, Wehrle, Krüger, Spaniol, Cangemi & Vogeley, 2023) published in Language and Linguistics Compass. We plan to update all figures and tables as and when new papers on this topic are published. We therefore encourage researchers to inform us of any work that they believe should feature in the online version of this overview, which is intended be updated continuously and indefinitely. Stay tuned!'),
+  
+  tags$h4("Submitting a new paper"),
+  tags$p("If you would like to submit a new paper, ", 
+         a("follow this link ", href = "https://docs.google.com/forms/d/e/1FAIpQLSd2ihjBOqpgrEdd3IRdpeLmzFm-93F5QWYzqtjn-XQKEYgNkw/viewform", target = "_blank"),"to the paper submission form."),
+  
+  
   mainPanel(
     tabsetPanel(
       tabPanel("Perception",
@@ -176,7 +186,9 @@ server <- function(input, output, session) {
   productionLabelSource <- reactive({
     productionData() %>%
       select(Label, source, What, differences, min, max, participants, language) %>%
-      distinct()
+      distinct() |> 
+      mutate(source = lapply(source, function(url) as.character(a(href = url, target="_blank", url))))
+    
   })
   
   # Rendering Production Table
